@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.licdn.com/dms/image/D4E16AQHrai9doOg31g/profile-displaybackgroundimage-shrink_350_1400/0/1685323014260?e=1697068800&v=beta&t=bTMkpflgg8aCNdvteMF5bIGNd4CDvusgbwE4Ytb2ybQ](https://media.licdn.com/dms/image/D5616AQEc8o5wCwbGKA/profile-displaybackgroundimage-shrink_350_1400/0/1685290840277?e=1712188800&v=beta&t=SSQO-9Umh__Kpx_BHAK9M2GqnJdVqc4UJrL49QELdFQ))]()
+[![MasterHead]([https://media.licdn.com/dms/image/D5616AQEc8o5wCwbGKA/profile-displaybackgroundimage-shrink_350_1400/0/1685290840277?e=1712188800&v=beta&t=SSQO-9Umh__Kpx_BHAK9M2GqnJdVqc4UJrL49QELdFQ))]()
 <h1 align="center">Hi 👋, I'm Ginura Premawardana</h1>
 <h3 align="center">A passionate mobile application developer from Sri Lanka</h3>
 
