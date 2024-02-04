@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ginujj&label=Profile%20views&color=0e75b6&style=flat" alt="ginujj" /> </p>
 
-- 🔭 I’m currently working on **BlindCare**
+- 🔭 I’m currently working on **BlindCare_project**
 
 - 🌱 I’m currently learning **Flutter**
 
